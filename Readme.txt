@@ -24,4 +24,9 @@ This project provides a lightweight web UI to deploy and manage AI model pods in
 - pip
 
 
+Run the following commands to start 
+ - streamlit run app/ui.py
+ if getting error that pods are running then 
 
+- kubectl get pods
+- kubectl delete pod <pod-name>
