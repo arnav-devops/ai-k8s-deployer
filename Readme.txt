@@ -14,11 +14,6 @@ This project provides a lightweight web UI to deploy and manage AI model pods in
 -  Works with Minikube (local cluster)
 -  Built with Python, Streamlit, and the Kubernetes Python client
 
----
-
-
-
-##  Setup Instructions
 
 ###  Prerequisites
 
